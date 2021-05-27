@@ -16,6 +16,7 @@ import com.employee.service.EmployeeService;
 @Controller
 public class EmployeeController 
 {
+	//commented
 	@RequestMapping("/AddEmployee")
 	public ModelAndView addEmployee()
 	{
